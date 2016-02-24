@@ -1,6 +1,10 @@
+'use strict';
 
+const foo = 1;
+let bar = 2;
 
 
 module.exports = {
-  foo: 1,
+  foo,
+  bar,
 };
