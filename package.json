@@ -1,0 +1,26 @@
+{
+  "name": "mf-engineer-meeting-201602",
+  "version": "0.0.0",
+  "description": "A temporary workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/mf-engineer-meeting-201602.git"
+  },
+  "author": "kjirou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjirou/mf-engineer-meeting-201602/issues"
+  },
+  "homepage": "https://github.com/kjirou/mf-engineer-meeting-201602#readme",
+  "private": true,
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "lodash": "^4.5.1"
+  }
+}
